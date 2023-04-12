@@ -1,6 +1,6 @@
 • I am Ayush Agarwal persuing B.Tech from the Central University of chhattisgarh
 • I am a enthusiastic person with keen interest in AI, ML AND DL
-• I also like to learn about web development and have good knowledge in front end development (HTML, CSS).
+• I also like to learn about web development and have good knowledge in front end development (HTML, CSS,JS) and also in JS frameworks like ReactJS and AngularJS.
 • I enjoy challenges that enable me to grow.
 • I am always energetic and eager to learn new skills.
 • I am able to handle multiple tasks on daily basis.
